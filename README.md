@@ -95,6 +95,6 @@ This project really helped me get more comfortable with networking fundamentals,
 ---
 
 ## 📅 Project Notes
-I finished this project on **August 7, 2025**, using **subject version 4.0** and **NetPractice 1.6**. After practicing the given exercises, I realized there is often a pattern: each exercise is very similar each time you refresh the page, with only small changes.
+I finished this project on **August 7, 2025**, using **subject version 4.0** and **NetPractice 1.6**. After practicing the given exercises, I realized there is often a pattern: each exercise is very similar each time you refresh the page, with only small changes. [Here](https://github.com/podefteza/NetPractice/blob/main/Levels%201%20to%2010.pdf) are my notes on each level.
 
 👉 Keep in mind, however, that the **goal of this project is to understand how networks work**, not to memorize the exercises, but by recognizing these patterns, it becomes easier to spot what is wrong (IPs, routes, or masks) and apply the right fix.
