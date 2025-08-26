@@ -1,20 +1,27 @@
 # NetPractice
-**NetPractice** is a 42 school project designed to introduce the basics of computer networking through interactive exercises. The goal is to learn how TCP/IP addressing works and how to configure small-scale networks to make them functional.
 
-## 📌 **Project Overview**
-- The project provides an interactive web interface (index.html) where you solve networking problems step by step.
-- You will encounter 10 levels, each presenting a broken network that must be fixed.
-- The tasks involve assigning correct IP addresses, subnet masks, and routes so devices can communicate properly.
-- Logs and real-time feedback help debug configurations.
-- Solutions are exported with the [Get my config] button and submitted to the repository (1 file per level).
+**NetPractice** is a 42 school project where I learned the basics of computer networking through interactive exercises.  
+The goal of the project is to understand how TCP/IP addressing works and how to configure small-scale networks so that they become functional.
 
-## 🎯 **Learning Objectives**
-- Understand IP addressing and subnetting.
-- Learn how to configure networks with hosts, routers, and subnets.
-- Gain hands-on practice in solving networking problems.
-- Build the foundation needed for more advanced networking and system administration projects.
+## 📌 Project Overview
+- The project comes with an interactive web interface (`index.html`) where I had to solve networking problems step by step.  
+- There are **10 levels**, each with a broken network that needs to be fixed.  
+- The main tasks involved:
+  - Assigning correct IP addresses.  
+  - Setting up subnet masks.  
+  - Configuring routes so devices could communicate properly.  
+- The interface provides logs and real-time feedback, which helped me debug my configurations.  
+- Once solved, I exported the solutions using the **[Get my config]** button and submitted them (1 file per level).
 
-## ✅ **Evaluation**
-- During defense, you will be asked to solve 3 random levels within 15 minutes.
-- No external tools are allowed, except for a simple calculator (e.g., bc).
-- Be prepared for small modifications to ensure real understanding of networking concepts.
+## 🎯 What I Learned
+- How IP addressing and subnetting work.  
+- How to configure networks with hosts, routers, and subnets.  
+- Hands-on practice in solving real networking problems.  
+- Built a solid foundation for more advanced networking and system administration projects.
+
+## ✅ Evaluation
+- During the defense, I had to solve **3 random levels (from 6 to 10)** within 15 minutes.  
+- No external tools were allowed (except for a simple calculator like `bc`).  
+
+## 🚀 Takeaway
+This project really helped me get more comfortable with networking fundamentals, especially subnetting and IP routing, which are essential skills for both system administration and more advanced network setups.
